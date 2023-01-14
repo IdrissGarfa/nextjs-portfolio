@@ -43,7 +43,7 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10">
-            <h2 className="text-[3.4rem] py-2 text-teal-600 font-medium md:text-6xl dark:text-teal-500">Idriss Garfa</h2>
+            <h2 className="text-[3rem] py-2 text-teal-600 font-medium md:text-[5rem] lg:text-[5.5rem] dark:text-teal-500">Idriss Garfa</h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-gray-300">Developer and designer.</h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-2xl mx-auto dark:text-gray-200">Freelancer providing services for programming and design content needs.
               Join me down below and let's get cracking!</p>
