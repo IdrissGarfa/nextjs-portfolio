@@ -25,9 +25,9 @@ export default function Home() {
 
       <main className={`${darkMode ? "dark" : ""} bg-white px-0 md:px-20 lg:px-40 dark:bg-gray-900 transition-colors duration-500`}>
         <section className="min-h-screen">
-          <nav className="py-10 px-10 mb-12 flex justify-between">
+          <nav className="py-10 px-5 md:px-10 mb-12 flex justify-between">
             <h1 className="text-xl font-semibold text-gray-70 dark:text-gray-100">Portfolio</h1>
-            <ul className="flex items-center gap-[2rem]">
+            <ul className="flex items-center gap-6 md:gap-[2rem]">
               <li>
                 {
                   !darkMode ? (
